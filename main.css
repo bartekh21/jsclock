@@ -5,8 +5,8 @@ body {
 .clock {
   border: 10px solid #fff;
   border-radius: 50%;
-  width: 1000px;
-  height: 1000px;
+  width: 500px;
+  height: 500px;
   margin: auto;
 }
 .clock-face {
